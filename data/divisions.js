@@ -1,0 +1,28 @@
+// EDIT ME: add a new division by copying one object. "id" is used in the URL (#/division/<id>).
+window.UE_DIVISIONS = [
+ { id:"ue", name:"United Empire (UE)", category:"Core", status:"Active", featured:true,
+   desc:"[PLACEHOLDER] The central command of the Empire.", leader:"[Placeholder Leader]", members:"[000]",
+   roblox:"", discord:"", history:"[PLACEHOLDER] History and background of the United Empire.",
+   leadership:[{name:"[Placeholder Leader]",role:"Emperor"},{name:"[Placeholder Deputy]",role:"High Command"}],
+   ranks:["Recruit","Private","Officer","General"], recruiting:"[PLACEHOLDER] Recruitment info." },
+ { id:"scp", name:"SCP Foundation", category:"Sci-Fi", status:"Recruiting", featured:true,
+   desc:"[PLACEHOLDER] Secure, contain and protect.", leader:"[Placeholder Leader]", members:"[000]",
+   roblox:"", discord:"", history:"[PLACEHOLDER] History of this division.",
+   leadership:[{name:"[Placeholder Director]",role:"Site Director"}],
+   ranks:["Class-D","Researcher","Security Officer","Site Director"], recruiting:"[PLACEHOLDER] Recruitment info." },
+ { id:"galactic", name:"Galactic Empire", category:"Sci-Fi", status:"Active", featured:true,
+   desc:"[PLACEHOLDER] Order across the galaxy.", leader:"[Placeholder Leader]", members:"[000]",
+   roblox:"", discord:"", history:"[PLACEHOLDER] History of this division.",
+   leadership:[{name:"[Placeholder Admiral]",role:"Grand Admiral"}],
+   ranks:["Cadet","Stormtrooper","Officer","Admiral"], recruiting:"[PLACEHOLDER] Recruitment info." },
+ { id:"clone", name:"Clone Wars", category:"Sci-Fi", status:"Active",
+   desc:"[PLACEHOLDER] Battalions of the Grand Army.", leader:"[Placeholder Leader]", members:"[000]",
+   roblox:"", discord:"", history:"[PLACEHOLDER] History of this division.",
+   leadership:[{name:"[Placeholder Commander]",role:"Marshal Commander"}],
+   ranks:["Cadet","Trooper","Sergeant","Commander"], recruiting:"[PLACEHOLDER] Recruitment info." },
+ { id:"rec", name:"Rec Military", category:"Military", status:"Recruiting",
+   desc:"[PLACEHOLDER] Modern military roleplay.", leader:"[Placeholder Leader]", members:"[000]",
+   roblox:"", discord:"", history:"[PLACEHOLDER] History of this division.",
+   leadership:[{name:"[Placeholder Colonel]",role:"Commanding Officer"}],
+   ranks:["Recruit","Private","Sergeant","Colonel"], recruiting:"[PLACEHOLDER] Recruitment info." }
+];
