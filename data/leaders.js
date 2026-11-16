@@ -1,12 +1,10 @@
-// EDIT ME. tier: Emperor | High Command | Division Commanders | Senior Officers | Department Directors
+// EDIT ME. tier: Royal Family | Representatives | Senators
 // avatar: image URL (optional), link: Roblox/Discord profile (optional)
 window.UE_LEADERS = [
- {tier:"Emperor",name:"Knoxx",username:"@knoxx77",position:"Supreme Emperor",division:"ue",bio:"[PLACEHOLDER] Short biography.",avatar:"",link:""},
- {tier:"High Command",name:"[Placeholder]",username:"@username",position:"High Commander",division:"ue",bio:"[PLACEHOLDER] Short biography.",avatar:"",link:""},
- {tier:"High Command",name:"[Placeholder]",username:"@username",position:"High Commander",division:"ue",bio:"[PLACEHOLDER] Short biography.",avatar:"",link:""},
- {tier:"Division Commanders",name:"[Placeholder]",username:"@username",position:"Commander",division:"scp",bio:"[PLACEHOLDER] Short biography.",avatar:"",link:""},
- {tier:"Division Commanders",name:"[Placeholder]",username:"@username",position:"Commander",division:"galactic",bio:"[PLACEHOLDER] Short biography.",avatar:"",link:""},
- {tier:"Senior Officers",name:"[Placeholder]",username:"@username",position:"Senior Officer",division:"clone",bio:"[PLACEHOLDER] Short biography.",avatar:"",link:""},
- {tier:"Department Directors",name:"[Placeholder]",username:"@username",position:"Director of Diplomacy",division:"ue",bio:"[PLACEHOLDER] Short biography.",avatar:"",link:""},
- {tier:"Department Directors",name:"[Placeholder]",username:"@username",position:"Director of Recruitment",division:"ue",bio:"[PLACEHOLDER] Short biography.",avatar:"",link:""}
+  { tier: "Royal Family", name: "Knoxx", username: "@knoxx77", position: "Supreme Emperor", division: "ue", bio: "[PLACEHOLDER] Short biography.", avatar: "", link: "" },
+  { tier: "Royal Family", name: "EquableSplash43", username: "@EquableSplash43", position: "[PLACEHOLDER]", division: "ue", bio: "[PLACEHOLDER] Short biography.", avatar: "", link: "" },
+  { tier: "Royal Family", name: "Lina", username: "@Lina", position: "[PLACEHOLDER]", division: "ue", bio: "[PLACEHOLDER] Short biography.", avatar: "", link: "" },
+  { tier: "Representatives", name: "Proxima", username: "@Proxima", position: "Representative", division: "rec", bio: "[PLACEHOLDER] Short biography.", avatar: "", link: "" },
+  { tier: "Representatives", name: "ChordRave", username: "@ChordRave", position: "Representative", division: "galactic", bio: "[PLACEHOLDER] Short biography.", avatar: "", link: "" },
+  { tier: "Representatives", name: "Kran", username: "@Kran", position: "Representative", division: "clone", bio: "[PLACEHOLDER] Short biography.", avatar: "", link: "" }
 ];
