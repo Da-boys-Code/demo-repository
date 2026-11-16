@@ -7,5 +7,5 @@ window.UE_LEADERS = [
   { tier: "Representatives", name: "Proxima", username: "@Proxima", position: "Representative", division: "rec", bio: "[PLACEHOLDER] Short biography.", avatar: "", link: "" },
   { tier: "Representatives", name: "ChordRave", username: "@ChordRave", position: "Representative", division: "galactic", bio: "[PLACEHOLDER] Short biography.", avatar: "", link: "" },
   { tier: "Representatives", name: "Kran", username: "@Kran", position: "Representative", division: "clone", bio: "[PLACEHOLDER] Short biography.", avatar: "", link: "" }
-   { tier: "Representatives", name: "Goose", username: "@Goose", position: "Representative", division: "scp", bio: "[PLACEHOLDER] Short biography.", avatar: "", link: "" }
+  { tier: "Representatives", name: "Goose", username: "@Goose", position: "Representative", division: "scp", bio: "[PLACEHOLDER] Short biography.", avatar: "", link: "" }
 ];
