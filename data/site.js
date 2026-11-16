@@ -6,7 +6,7 @@ window.UE_SITE = {
   discord: "", roblox: "",
   stats: [ // placeholder values
     { label: "Divisions", value: 5 },
-    { label: "Members [placeholder]", value: 1000 },
+    { label: "Members", value: 1128 },
     { label: "Active Operations [placeholder]", value: 3 }
   ],
   values: [
